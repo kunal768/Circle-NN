@@ -1,0 +1,23 @@
+# A simple 2 layer NN
+
+Input -> FeedForward -> FeedForward -> Output _
+                                               |
+     BackProp   <-  BackPropogation <-  Loss <--
+
+
+
+
+
+
+
+
+Loss can be computed using various loss functions :
+The sum of squares error being one of the most basic ones
+
+sumOfSs = sum(from i 0 to n)^2
+
+Our goal in training is to find the best set of weights and biases that minimizes the loss function.
+
+In order to adjust the weights and biases we need to know derivatives of the loss function wrt weights and biases
+
+
