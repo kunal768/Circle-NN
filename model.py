@@ -56,9 +56,9 @@ import matplotlib.pyplot as plt
 # In[38]:
 
 
-for point in points:
-    plt.plot(*point,'g.')
-plt.show()
+# for point in points:
+#     plt.plot(*point,'g.')
+# plt.show()
 
 
 # In[41]:
@@ -69,7 +69,7 @@ import test
 Xc = 5 
 Yc = 5
 Radius = 70
-test.plotCircle(Xc,Yc,Radius)
+# test.plotCircle(Xc,Yc,Radius)
 
 
 # In[42]:
