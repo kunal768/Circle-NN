@@ -14,11 +14,6 @@ python3 model_test.py <Xc> <Yc> <Radius>
 ```
 
 ## Result 
-
-### Accuracy 
-92.05 %
-![alt text]( https://github.com/kunal768/Circle-NN/blob/master/results/model_score.JPG "bres-result") 
-
 ### Comparison with plot of Bresenhams Algorithm 
 Xc = 5 , Yc = 5 , Radius = 70
 
